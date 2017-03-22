@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <widget xmlns = "http://www.w.org/ns/widgets"
 	xmlns:gap ="http://phonegap.com/ns/1.0"
@@ -35,6 +35,6 @@
 		
 		<!--Colocar icono app-->
 		
-		<icon src="res/android/mdpi.pgn" />
+		<icon src="res/android/mdpi.pgn"/>
 		
 </widget>
